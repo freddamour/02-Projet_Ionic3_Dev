@@ -4,3 +4,5 @@
 test du framework angular 
 version 0.1.0
 modification syn
+
+ https://freddamour.github.io/02-Projet_Ionic3_Dev/
